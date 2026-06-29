@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc060/tls/v1/juan/155
+seq: 155
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 實二千九負方九十正隅一負開平方得四十一爲第一數復置初商變餘實九負方一十正隅一負如法開之開得九以加初商四十得四十九爲第二數此第一數第二數初商同爲四十故不番法實四萬六千六百五十五負方四百三十二正隅一負開平方得二百一十五爲第一數復置次商變餘實三十五負方一十二正隅一負
+  hash: sha256:b1385931fadb5d1b593e0fefba3248894a59b1f00ee4a2af95b29c2499e1e328
+metadata:
+  title: 開方說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc060.xml
+hash: sha256:958630ee4ae726852e353bbf491e7b5b4e92c7a0a6ec9c91d0773afab1d0ee57

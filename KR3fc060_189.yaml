@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc060/tls/v1/juan/189
+seq: 189
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 先開得第二數即第三數開訖變之以商二乘隅一正得二正以加廉三正得五正以商二乘之得一十正以減方一十負適盡餘無正數可除故知所開得一十二為第二第三兩數又以商二乘隅一正得二正以加廉五正得七正為實以隅一正除之得七負與開得數一十二相減得五為第一數或開訖減去末商二餘一十為寄位以餘方一十負為實廉三正為方隅一正為隅如法開得正數二負數五以正數二與寄位一十相加仍得一十二即第二第三兩數以負數五與寄位相減得五即第一數實五萬六百五十三負方四千一百七正廉一百一十一負隅一正開立方得第一數第二數第三
+  hash: sha256:cfc8a45dabbedc4889f97eded26cd845b59b0d3317f00a1b3298fea61a865fc3
+metadata:
+  title: 開方說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc060.xml
+hash: sha256:72098a59027dd66a96575f5aae34bc7550e7e90dff4613e1ac714615a4adba58

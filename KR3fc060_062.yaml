@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc060/tls/v1/juan/62
+seq: 62
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 商七十負以商七負乘隅一萬負得七萬正以減弟二廉八百二十六萬四千負餘第二廉八百一十九萬四千負又以商七負乘之得五千七百三五萬八千正以加第一廉六億六千七百五十六萬二千正得弟一廉七億二千四百九十二萬正又以商七負乘之得五十億七千四百四十四萬負以方四十六億四千二百四十四萬三反減之餘方四億三千二百萬負又以商七負乘之得三十億二千四百萬正以減實三十億二千四百萬負適盡右以正一廉步正方同名相步得負商第一數
+  hash: sha256:22626ddfa1bd28990471dfb9474dd921725842b558155ce246be71be23127026
+metadata:
+  title: 開方說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc060.xml
+hash: sha256:3b6f08ff860bc2fd318500ae5a0ec6645632efb24046888758a775a3123cb2a0

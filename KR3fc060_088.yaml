@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc060/tls/v1/juan/88
+seq: 88
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 代商一負除得五三分之一負為較數以減第二數八正得二三分之二正為第一數右代開較數減實一百一十六負方四十五正隅四負開平方得第一數四正第二數七十五分之三正商四正開平方得四正為第一數變之以除代開之商三正除得三四分之一正為較數以加第一數四正得七四分之一正為第二數右代開較數加商七正子母借商一正開平方得七一十五分之三正為第二數乃列借商之實方隅續開之商三負
+  hash: sha256:c269250edb95e06fc2545038a289bbf7f0ddc203e3b45c7a1ab7a90500139b36
+metadata:
+  title: 開方說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc060.xml
+hash: sha256:dd0ce5e7fa7cb9494334d741d3e29fde85c7588610ae3a654dcf8918a80d12de

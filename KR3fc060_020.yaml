@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc060/tls/v1/juan/20
+seq: 20
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 二二二可進約商二百實九萬負法空隅一正開平方得三百商實方隅丨如法列位商一商實方隅方進一位隅進二位丨商十商實方隅川如前又進商百不可
+  hash: sha256:85fd5e815d14a378a4aa439a26e76e38b48d46d6e4945342061f1eca232c09c3
+metadata:
+  title: 開方說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc060.xml
+hash: sha256:a984675cd337d197426d1fdcf7fb739e3b25c7cdf29e42ee8adc81f3485988fd

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc060/tls/v1/juan/100
+seq: 100
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 正以兩數差一十負徧乘之如前變之得變立方餘實一百五十正方七百二十五正廉一百二十四負隅五正變平方餘變立方餘子母借商一負以變立方餘求得八百五十四分之一百五十負以加兩數差一十負共得一十八百五十四分之一百五十負以減第二數一十二正得一八百五十四分之七百四正則與立方所得之分同右變除之分爲立方之分兩數差負初商一十五次商七正又立方開得一十七正爲第三數變之以平方代開之
+  hash: sha256:b9810e2e80b2d933b44ede506b9bc34a71c1425d2a4811e4b9faa286a9421f71
+metadata:
+  title: 開方說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc060.xml
+hash: sha256:cf88dd3cc955d5a3968a30ddd2b0f213e2aee0ccf7613c3a52f5f9c9362739cf

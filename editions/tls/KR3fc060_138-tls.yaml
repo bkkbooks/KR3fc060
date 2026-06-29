@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc060/tls/v1/juan/138
+seq: 138
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 實三千二百四十六萬一千七百五十九負方空廉空隅一正如立方法開之先開得三百餘變之得實五百四十六萬負方二十七萬正廉九百正隅一正如立方法開得一十卽與負實正方正廉正隅者同凡可開三數其第三數初商與第二數初商同則初次兩商皆翻積翻而又翻猶不翻也可開四數其第
+  hash: sha256:f0a1abbfeea3d890d4b7e3eb62eb28f6d0934e6a09dedce19ee439acb63bdc4a
+metadata:
+  title: 開方說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc060.xml
+hash: sha256:aae9ad81e6ee994a84641df53642d062804d1c79702736f4b42c84eafd7222b6

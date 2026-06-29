@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc060/tls/v1/juan/4
+seq: 4
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 方一十八上負次正次負下正可開三數或一數立方一三乘方七上負次正次負正下負可開四數或二數三乘方一假令有五位上二位負下三位正卽是上負下正非止謂上一位負下一位正也它皆放此凡可開三數或止一數可開四數或止二數其二數不可開是爲無數凡無數必兩無無一數者實負法正右除一實負方空隅正實負方正隅正實負方負隅正右平方三實負方空廉空隅正實負方空廉正隅正實負方空廉負隅正實負方正廉空隅正實負方負廉空隅正實負方正廉正隅正實負方負廉負隅正實負方負廉正隅正
+  hash: sha256:5ec6c561a0ebcc487d782a0eabc64d857cca42b79613814c5b1da3e0bbcaedca
+metadata:
+  title: 開方說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc060.xml
+hash: sha256:b53a0ada47d50fa581e74cfae1f973e31c66e61f70f528f210c18792c9452a7a

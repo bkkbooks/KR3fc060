@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc060/tls/v1/juan/28
+seq: 28
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 商實方一廉二廉隅弎丨丄如前又進商百不可進約商五百凡步之法以正步負或以負步正皆主於減所步凡平方可開二數者以正方步負實得第一數小數也以負隅步正方得第二數大數也立方可開三數者以正方步負實得第一數小數以負廉步正方得第二數中數以正隅步歲廉得第三數大數它皆放此實一萬負方一萬一正隅一負開平方得第一數一第二數一萬商實方隅一一此以正方步負實商一商實方隅一一此以負隅步正從商一萬
+  hash: sha256:edd7764ed4b7c21e49d293e85d0220e4cb42395a40d00b075b3e7772d6a24c70
+metadata:
+  title: 開方說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc060.xml
+hash: sha256:f313ae5457a3796564d91faeba05a2289d01849a399dff19e9ffa486bfe5148c

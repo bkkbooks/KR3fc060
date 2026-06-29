@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc060/tls/v1/juan/16
+seq: 16
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 已上皆上負花括號正下負可開二數實負方正廉負隅正右立方實負方空一廉正二廉正隅正實負方正一廉空二廉正隅正實負方正一廉負二廉正隅正實負方正一廉正二廉正隅正實負方正一廉負二廉正隅正實負方正一廉負二廉正隅正實負方負一廉正二廉正隅正
+  hash: sha256:c4cd2ad137cb60c9b96377a5c40dddb7fe2b1c785ef156d14b6046c4bc6c2f73
+metadata:
+  title: 開方說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc060.xml
+hash: sha256:1e8d7e5fc938fdd46b84ae4e8fd654b9ca19c1ef38594ad887c6e583903b8d21

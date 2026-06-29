@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc060/tls/v1/juan/193
+seq: 193
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 或次商誤為初商初商誤為次商而實盡并各商皆得所求實二十五負方空隅一正開平方應得五今誤商尤乃置餘實五十六正變餘方一十八正隅一正如法開之開得四負以減誤商九得五為所求數實六十三負方二正隅一正開平方應得七今誤商一乃置餘實六十負變餘方四正隅一正如法開之開得六正以加誤商一得七為所求數實一千九百負方八十一正隅一正開平方應得一十九今誤商四十三
+  hash: sha256:edd406d1e61494edb2b4123cc56411e51df56bd870f5de9715d1d3e004e7e0f6
+metadata:
+  title: 開方說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc060.xml
+hash: sha256:fc17cc64639ce9458c73a125190eac3ade9bc8f040eb87f5c1cb8c9ea7d2c8a6

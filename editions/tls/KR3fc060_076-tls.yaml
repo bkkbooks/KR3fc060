@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc060/tls/v1/juan/76
+seq: 76
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 商八負平方開得八十八負以減前寄位一百正餘得第二數一十二正副之以末商八負加之得二十正爲寄位以餘方一十一正爲實隅一正爲法除代開之商一十負商一十負除得一十一負以減前寄位二十正餘得第一數九正右立方得第三數平方得第二數除得第三數代開所得皆負一術以本乘方先開一數訖變之以遞降一乘代開之所得爲較數以較數加減同名加異名減先得數爲又一數并釋在下凡立方可開三數先開一數訖變之驗其所變之數若可開二數則先開數爲第一數若可開一數則先開數爲第二數若無數可開謂無正數可開則先開數爲第
+  hash: sha256:45c4eaa81f690efd26a3def675758d9461b36a9deccc56e702be9d0001c332d2
+metadata:
+  title: 開方說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc060.xml
+hash: sha256:02ca7476f4da398d8b79cfe667ddbf500b456b9b13e07cac208fa11de6226277

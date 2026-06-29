@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc060/tls/v1/juan/175
+seq: 175
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 實一千一百五十二負方空廉二十六正隅一正開立方得正商六負商第一數八第二數二十四今令實一千一百五十二負易為正方空仍為空廉二十六正易為負隅一正易為負如法開之亦得正商六負商第一數八第二數二十四
+  hash: sha256:867e75f0635ec0614f97c76a4920c5e32ee597aaba673b678f4020907907446b
+metadata:
+  title: 開方說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc060.xml
+hash: sha256:9db316ae63f7aec5da2f41f1127770457d3d5ce1eeacfdec3ec216357c72bb0e

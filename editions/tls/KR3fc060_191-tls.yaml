@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc060/tls/v1/juan/191
+seq: 191
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 數皆三十七開訖變之以商七乘隅一正得七正以減廉一十四負餘七負以商七乘之得四十九負以減方四十九正適盡又以商七乘隅一得七正以減廉適盡是無較數可除故知三數同爲三十七或開訖減去末商七餘三十爲寄位以餘方四十九正爲實廉一十四負爲方隅一正爲隅如法開得七與寄位三十相加仍得三十七或代開訖減去末商七餘三十爲寄位以餘方七負爲實隅一正爲法除得七與寄位三十相加仍得三十七凡商數誤多誤少者置餘實變之誤多則商負減之而得所求誤少則商正加之而得所求或各商俱誤
+  hash: sha256:a73d4a1b8466b6253c0d95cffc2706f069cd6f7010ea027ba1a5e7d266bc9084
+metadata:
+  title: 開方說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc060.xml
+hash: sha256:fd1f792267ac87f2a3de2e08d1b56a468ca16d47ce81d2be67e9a3a7ffaa2eff

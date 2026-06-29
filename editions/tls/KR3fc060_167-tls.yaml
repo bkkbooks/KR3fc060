@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc060/tls/v1/juan/167
+seq: 167
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 開得六百一十六以母七十七除之得八爲所求數凡實方廉隅如意立一數爲母一除隅再除廉三除方四除實每上一位則增一除如是累除訖如法開之所得爲母除所求數之數以母乘之得所求實九百三十一萬五千二百八十負方五萬九千八百二十六正隅九十一正開平方得一百三十設如以一十三爲母乃置實方隅先以一十三除隅九十一正得七正爲隅次以一十三再除方五萬九千八百二十六正得三百五十四正爲方次以一十三三除實九百三十一萬五千二百八十
+  hash: sha256:b9769fdcd41b569d828e35e0712dcf242e8c08f3575fdbb8f9ea5ffac19287b0
+metadata:
+  title: 開方說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc060.xml
+hash: sha256:7a671e6a931035295ea91adc8cc50ee638ff96ee4386108fd77e953038e5cae6

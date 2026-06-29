@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc060/tls/v1/juan/211
+seq: 211
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 第一行第二行第三行第四行第五行第六行置實一百二十六正方三十二負隅二正於第一行實八十負方三十六正隅四負於第二行乃以第二行下四負乘第一行下二正得八負於第三行下次以第二行下四負乘第一行中下三十二負得一百二十八正於第三行中下次以第二行下四負乘第一行中一百二十六正五百四負於第三行中次以第二行中下三十六正乘第一
+  hash: sha256:a79cbd2c7b2b4e488916bd5ac645654b1cd8d52b48ae2e60a8a32d79fce8e444
+metadata:
+  title: 開方說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc060.xml
+hash: sha256:27551b7ab9317b0b9ac4e4dbd6b948193975c1fe75b6e25edef035a4713d1d6e

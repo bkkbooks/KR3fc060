@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc060/tls/v1/juan/130
+seq: 130
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 求得一千八百三十分之二百三十四正以加平方開得數一十三正共得一十三一千八百三十分之二百三十四正為較數以加第二數七正得二十一千八百三十分之二百三十四正為第三數與立方所得之分同右變平方之分為立方之分平方開得數正商五負或平方代開得五負為較數以減第二數七正得二正為第一數變之以除代開之初商一十正次商八正子母借商一正除代開得一十八七分之一正為較數以加第一數二正得二十七分之一為第三數此除所得之分與平方立方所得之分俱不同先變令與平方同以除借商之實法列下以除得數一十八乘其法實加減上位得下
+  hash: sha256:b0f2cc20cbeb9a53a8ebb69c918aeccdfb4bbbadc7edc1a31ad95a11d797bfde
+metadata:
+  title: 開方說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc060.xml
+hash: sha256:e75e76722e33358d903f58364edc8739fe376a3d0caf37ea58cfd97f267960ee

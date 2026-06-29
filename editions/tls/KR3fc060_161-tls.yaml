@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc060/tls/v1/juan/161
+seq: 161
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 實四千四百六十六負方六百八十七負廉空隅一正開立方得二十九設如以一百七爲母則以一百七徧乘之實得四十七萬七千八百六十二負方七萬三千五百九負廉空隅一百七正如法亦開得二十九凡實方廉隅如意立一數爲母一乘隅再乘廉三乘
+  hash: sha256:2b77bd7ddf04eecd34508aee41a0db2f40de08e7db7b5d0043903576269897a8
+metadata:
+  title: 開方說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc060.xml
+hash: sha256:59df9d9de3c88c669943abd3b57d0a7c246a86830d61774132003c1b293cf942

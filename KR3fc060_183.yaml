@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc060/tls/v1/juan/183
+seq: 183
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 如法開之開得三千三百與寄位空相加得三千三百為第二數以末商三百減之餘三千為寄位乃列餘方十萬九千八百九十負為實廉六百六十三正為方隅一負為隅如法開之
+  hash: sha256:10f00d4bcfd06cb1b41c35b8e1165efb17ec2aa70893be862002dc058461d610
+metadata:
+  title: 開方說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc060.xml
+hash: sha256:e2e895b611d27cad730fe77f528e4eafd28f02efe2aa9d11f772708caa79d63f

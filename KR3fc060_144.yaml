@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc060/tls/v1/juan/144
+seq: 144
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 二廉二萬四百二正隅一負如三乘方法開之先開得五百三為第一數復置實方廉隅如法開之
+  hash: sha256:5b62485bc2f6f8cbe312f6582f55b9d552a70f2245d2a603ad74c11ded800f9d
+metadata:
+  title: 開方說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc060.xml
+hash: sha256:d72e02f7e4be203ddfd5691e21093309f3161558ecaea0844115886e64fb2bf9

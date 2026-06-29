@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc060/tls/v1/juan/54
+seq: 54
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 右雖得次商而不可求之分故不可開上畢
+  hash: sha256:f69634ba2217066b53a832ef413838cfb039c19dafc27aac3b762e4ab2513930
+metadata:
+  title: 開方說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc060.xml
+hash: sha256:590135c480415815781629dd3af37066808c5c978ee5e53568ece3a76e2a01dc

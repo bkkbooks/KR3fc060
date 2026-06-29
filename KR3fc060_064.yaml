@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc060/tls/v1/juan/64
+seq: 64
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 商八百正法見上右以負二廉步正一廉異名相步得正商第二數商實減實方減方一廉減一廉二廉減二廉隅商九千負以商九負乘隅一萬億得九萬億正以二廉八萬二千六百四十億負反減之餘二廉七千三百六十億正又以商九負乘之得六萬六千二百四十億負以減一廉六萬六千七百五十六億二千萬正餘一廉五百一十六億二萬正又以商九負乘之得四千六百四十五億八千萬負以方四千六百四十二億四千四百萬正反減之餘方三億三千六百萬負又以商九負乘之得三十億二千四百萬正以減實三十億二千四百萬負適盡
+  hash: sha256:80cca6490fb9ef48e5086a1e54afed3ff9e5e8772de1b608c6a263d74b8fcf5f
+metadata:
+  title: 開方說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc060.xml
+hash: sha256:183b8f6de3fba4b5017a279fac422b2dce715c6762c5f31aecd7535b7c4b543b

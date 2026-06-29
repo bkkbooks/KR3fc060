@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc060/tls/v1/juan/58
+seq: 58
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 商三正法見上右以正方步負實異名相步得正商商實減實方減方廉減廉隅商四十負以商四負乘隅一千正得四千負以減廉五萬三千七百正餘四萬九千七百正又以商四負乘之得一十九萬八千八百負以方一十八萬三千八百正反減之餘方一萬五千負又以商四負乘之得六萬正以減實六萬負適盡右以正廉步正方同名相步得負商第一數商實減實方減方廉減廉隅商五百負以商五負乘隅一百萬正得五百萬負以減廉五百三十七萬正餘廉三十七萬正又以商五負乘之得一百八十五萬負以方一百八
+  hash: sha256:dab6a37637226f11fa383aabf30dbcd47cbcd4fecd308957a97983f96e2191e0
+metadata:
+  title: 開方說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc060.xml
+hash: sha256:976cf7037761252b2bc68a02583f49aeef031425dd78027cbb206d1c2c42cbe3

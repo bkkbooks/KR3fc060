@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc060/tls/v1/juan/195
+seq: 195
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 乃置餘實三千四百三十二正變餘方一百六十七正隅一正如法開之開得二十四負以減誤商四十三得一十九爲所求數實九百二十三負方八十四正隅一負開平方小數應得一十三大數應得七十一今小數誤商九大數誤商五十七乃置小數誤商餘實二百四十八負變餘方六十六正隅一負如法開之
+  hash: sha256:01ba233e74741a2bbc1a6e1dff14fdac9261ad21c9543c2d40291ab2d5eab4dd
+metadata:
+  title: 開方說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc060.xml
+hash: sha256:10f0ba2ef9b0405ce550bbaf476b1b46973cb09b757cdb0303f9d557b2149ae5

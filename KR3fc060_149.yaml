@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc060/tls/v1/juan/149
+seq: 149
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 次開得六千六百七十九為第三數此初次兩商皆翻積復置實方廉隅如法開之
+  hash: sha256:e0453d0752ec1e6a897dd8b9ecb885e6003f3f9b716f46a323e82b62aaaa45bd
+metadata:
+  title: 開方說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc060.xml
+hash: sha256:62739b1583c62a8c533fae21cc8442dea3f10c7600ccf1b2b511b7b038bd5633

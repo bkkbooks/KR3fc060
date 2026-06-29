@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc060/tls/v1/juan/219
+seq: 219
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 方隅以借一求得分母一百一十四負子母同名母又小於子不可命分故不可算若商十以上十以下之數皆不可算緣大數減實惟十最相近也
+  hash: sha256:1e71b30ee1093f8f3b1ba2dc139b6eda1f268bed9cff2923e0639d915439baeb
+metadata:
+  title: 開方說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc060.xml
+hash: sha256:c476baba372f15ee2cea6fd63da6db0ccaa17915aced8304e00f046c97946a65

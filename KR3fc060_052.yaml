@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc060/tls/v1/juan/52
+seq: 52
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 次商一借子母母八千九百二十一正子七千三百一十一負開得一十一八千九百二十一分之七千三百一十一以母五除之得二五分之一八千九百二十一分之七千三百一十一右三乘方開方不盡以母除之亦不盡凡不可開者為無數實一百負方一正隅一十負右不可步故不可開實一萬負方一百九十正隅一負右雖得初商而不可求次商故不可開實一百四十五負方二十四正隅一負
+  hash: sha256:f96f20c3e002e706bb1dc9c9536e78e242193f3d184faf1a248402b278c3494c
+metadata:
+  title: 開方說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc060.xml
+hash: sha256:67d428151bd86633e339fa8ad5b650fb5e5b7ae523e4306a63a627e27553e55a

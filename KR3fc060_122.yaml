@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc060/tls/v1/juan/122
+seq: 122
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 正為第三數右以立方求之分為之分本數商二正又立方開得二正為第一數變之以平方代開之初商一十正次商八正子母借商一正平方代開得一十八九十七分之一十三正為較數以加第一數二正得二十九十七分之一十三正為第三數此平方所得之分與立方不同變之令與立方同以平方借商之實方隅重列如下以立平較一十八正即前較數去之分不用如前纍乘纍加減得下子母借商一正
+  hash: sha256:d0dd717e9bd7874af7e0f6bc307fd786e6181fa12c701670f0ccda67dcfffdd0
+metadata:
+  title: 開方說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc060.xml
+hash: sha256:aaba133e22f31fbd5cf051524afba3f321176dd9985ffa8cac3bd4da620c5c34

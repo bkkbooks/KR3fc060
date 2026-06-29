@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc060/tls/v1/juan/177
+seq: 177
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 凡開方有正商負商者以其實方廉隅之正負隔一位易之如法開之則所得正商變為負商負商變為王商實三百八負方七十三正隅一正開平方得正商四負商七十七今令實三百八負易為正方七十三正仍為正隅一正易為負如法開之得正商七十七負商四
+  hash: sha256:c3692f04f11f3f18094b69602cc279c58bdacbc4d19d4c0951a1e7449c7f4d19
+metadata:
+  title: 開方說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc060.xml
+hash: sha256:8394e91c20490e83c4893173135567dede3e9ea1525aba52b141034e1f7be810

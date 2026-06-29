@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc060/tls/v1/juan/201
+seq: 201
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 實一千負方三百七十五正廉三十六負隅一正開立方得一十二五十六分之四十四借商子母置分母五十六負以分子四十四正減之得一十二負爲餘數與元實一千負相減得九百八十八爲負實方三百七十三正仍爲方廉三十六負仍爲廉隅一正仍爲隅如法開得一十三凡有正負各數累乘之卽得實方廉隅各數實二十五負法一正除得二十五正實二十五正法一正除得二十五負今以兩法實相乘得實六百二十五負方空隅一正開平方得數正負皆二
+  hash: sha256:efdda3b910480225dadccda4c23cf2f1e24589b6546c4623f61d416e119c64ae
+metadata:
+  title: 開方說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc060.xml
+hash: sha256:51e0f0808c10472056b749939fe5e67474f6cc62038ba50e362fcd57d0390f83

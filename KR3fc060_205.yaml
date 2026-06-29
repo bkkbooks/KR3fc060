@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc060/tls/v1/juan/205
+seq: 205
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 五行實方隅之數實一十四負法二正除得七正實二十七正法九負除得三正今以兩法實相乘得實三百七十八負方一百八十正隅一十八負開平方得小數三大數七第一行第二行第三行第四行第五行置實一十四負法二正於第一行實二十七正法九負於第二行乃以第二行下九負乘第一行下二正得一十八負於第三行下次以第二行下九負乘第一行中一十四負得一百二十六正於第三行中次以第二行中二十七正乘第一行下二
+  hash: sha256:883f8fd7b9e8010b5b4c3de47bc90615ad9e239cf55a60c1de20d0df88492165
+metadata:
+  title: 開方說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc060.xml
+hash: sha256:a96e18ad769db9b48729cd3689f10fb7769f3efaaa32162a03246063849171a4

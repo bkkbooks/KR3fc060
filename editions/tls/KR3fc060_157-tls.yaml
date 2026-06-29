@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc060/tls/v1/juan/157
+seq: 157
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 如開法之開得七以加初次商二百一十得二百一十七爲第二數此第一數第二數初次商同爲二百一十故不翻法凡除有之分者可還元開方有之分者不可還元實九千一百九負法二十五正法除實得三百六十四二十五分之九置得數三百六十四以分母二十五乘之得九千一百以分子九加之得九千一百九與元實同實一萬三千九百七十一負方九百一十七正隅三十一正開平方得一十一一千六百三十分之一百三十三
+  hash: sha256:5d2b6d0e9292711268e00d36b4e1417e366a88c9a13570d56b6b8d12413a839f
+metadata:
+  title: 開方說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc060.xml
+hash: sha256:4bc82ca15fac4b1347e0578150d540fa8678dad49798db97a16cc2de2f5205f7

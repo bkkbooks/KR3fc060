@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc060/tls/v1/juan/217
+seq: 217
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 實內加一得二十六負卽不可開實一百正方二十負隅一正開平方得一十今於實內加七得一百七正卽不可開依前法兩平方相乘得實二千七百八十二負方一千五百九十正一廉三百三十三負二廉三十正隅一負此三乘方四數皆不可開假令商五減實餘三十二負變之重列實方隅以借商一求得分母一十四負子母同名母又小於子不可命分故不可算若商五以上五以下之數皆不可算緣小數減實惟五最相近也假令商一十減實餘一百八十二負變之重列實
+  hash: sha256:b320dc72d6950930abe2e7d1b4688d4b2af3210c7d6b05bb97f7c076bcd1c970
+metadata:
+  title: 開方說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc060.xml
+hash: sha256:6fb588c5c7b9b034004e03742e36a96b979600a4bdbba140aef0f68602115579

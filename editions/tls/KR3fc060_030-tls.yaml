@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc060/tls/v1/juan/30
+seq: 30
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 一實一億負方一億一十萬一千正廉一十萬一千一負隅一正開立方得第一數一第二數一千第三數一十萬商實方廉隅一丨一一一一一此以正方步負實一商一商實方廉隅一丨卜卜丨丨一一丨此以負廉步正方南一千商實方廉隅此以正隅
+  hash: sha256:8163a5418676bf1c79d854d886d6c06f954684c56c5ae1a795a44c0b51c66bbe
+metadata:
+  title: 開方說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc060.xml
+hash: sha256:6eac72d12fa8204b8aa8b38e8e39868aa8cdfca3ec7fddf03803d1c16067a5f7

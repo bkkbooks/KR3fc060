@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc060/tls/v1/juan/171
+seq: 171
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 設如以一十一為母乃置實方廉隅先以一十一除隅三百一十九正得二十九正為隅次以一十一再除廉十萬八千七百七十九負得八百九十九負為廉次以一十一三除方一千一百七十七萬二千六百九十五負得八千八百四十五負為方次以一十一四除實一億一千五百九十一萬二千七百九十七負得七千九百一十七負為實重列如法開之開得三十九以母一十一乘之得四百二十九為
+  hash: sha256:6c88945ea19ded386358f7c545644b95c95f68478127b10a52c409e1c484931f
+metadata:
+  title: 開方說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc060.xml
+hash: sha256:e8974daa4772d1894ba355378bb82d2df725e339d86f798c4295398f4adbdc1d

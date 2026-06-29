@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc060/tls/v1/juan/153
+seq: 153
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 實一百八十八負方九十五正廉一十六負隅一正開立方得四開訖變之得實一十五正方四負隅一正如下式此無數可開於例尚可開兩數故知無數者爲第二數第三數實三千二百七十負方七百九正廉五十負隅一正開立方得三十開訖變之得實四百九正方四十正隅一正如下式此無數可開於例爲無數故知無數者爲第一數第二數凡第二數當用翻法若第二數初次等商與第一數同惟末商不同者亦不用翻法
+  hash: sha256:0f1ea1cd04918df64022e939123c70570d333f8f9f73cc7c581ed191c9208003
+metadata:
+  title: 開方說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc060.xml
+hash: sha256:c4f548a92113055ee6f0e571438a47134bc082329be979fa6ee57059c0a8c501

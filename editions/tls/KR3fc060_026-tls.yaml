@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc060/tls/v1/juan/26
+seq: 26
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 二丅商實方一廉二廉隅方進一位第一廉進二位第二廉進二丅三位隅進四位商十
+  hash: sha256:321c1259adb679e432d2349f49a628285116a3180418c6ba0d0947bfa20e743a
+metadata:
+  title: 開方說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc060.xml
+hash: sha256:4dbd26565588b1813c761ee6e37600eebc5cee2345dcf0e729510cc256da8486

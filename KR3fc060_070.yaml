@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc060/tls/v1/juan/70
+seq: 70
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 實一萬四千四十負方二千八百三十八正廉一百五十一負隅一正開立方得第一數九第二數一十二第三數一百三十立方開得第一數九正副之以末商九正減之餘空為寄位以餘方一千五百六十正為實廉一百四十二負為方隅一正仍為隅以平方代開之平方開得一十二正以加前寄位空得第二數一十二正副之以末商二正減之餘一十正為寄位以餘方一百二十負為實隅一正為法以除代開之商一百正商二十正
+  hash: sha256:0657399983a1147af7da73fd851da2c1bd9f772fc4805a95bcd8f85f9df40e3f
+metadata:
+  title: 開方說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc060.xml
+hash: sha256:33e09c48834ada15f86b8298dd1a26c6d75d246b9108a3fed235ae606322897f

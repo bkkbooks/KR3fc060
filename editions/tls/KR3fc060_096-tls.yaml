@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc060/tls/v1/juan/96
+seq: 96
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 二十四負爲主方廉平方隅五正卽爲立方隅共得變立方餘實一百五十正方七百二十五正廉一百二十四負隅五正平方縣變立方餘子母借商一負以變立方餘求得八百五十四分之一百五十負以加平方開得數一十負共得一十八百五十四分之一百五十負爲較數以減第二數一十二正得一八百五十四分之七百四爲第一數則與立方所得之分同右變平方之分爲立方之分平方開得數負商五正或平方代開得五正爲較以加第二數一十二正得一十七正爲第三數變之以除代開之初商一十負次商五負
+  hash: sha256:8de3eca2913ff64ce87d7cc50e2d968fbd34787e6dd3d9acd2906b124b10a4b4
+metadata:
+  title: 開方說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc060.xml
+hash: sha256:95379bd51c28c5e522a78fb278f862e541ebe7809a4ad8b5aa40db51d8848806

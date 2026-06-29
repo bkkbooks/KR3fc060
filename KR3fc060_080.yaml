@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc060/tls/v1/juan/80
+seq: 80
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 二數右本乘方開第一數商四正又立方開得五正為第二數如前變之以平方代開之此平方尚可開一正數故知五正為第二數平方開得四為較數以加第二數五正得九正為第三數如前變之以除代開之此除無正數可開故知九正為第三數除得七負為較數以減第三數九正得二正為第一數或平方開得三負為較數以減第二數五正得二正為第一數如前變之以除代開之此除尚可開一正數故知二正為第一數除得七正為較數以加第一數二正得九正為第三數右本乘方開第二數
+  hash: sha256:9eee17a82b6f76309724b02138cff81623ca1d5d7928d950840aec0cd0a78b73
+metadata:
+  title: 開方說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc060.xml
+hash: sha256:cbef81844918a258f8ad298d09d332e61d3f299d5b94e30a5b30b3c2f3897a5e

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc060/tls/v1/juan/50
+seq: 50
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 次商九開得一十九以母除之得九二分之一為所求數右立方開方盡以母除之不盡實三十二七分之六負方二負第一廉空第二廉一七分之一正隅七分之五正開三乘方得二五分之一分千九百二十一分之七千三百一十一加法通之得實二百三十負從一十四負第一廉空第二廉八正隅五正以隅五為母以母五三乘實得二萬八千七百五十負為實再乘方得三百五十負為方當以母一乘第一廉為第一廉今第一廉空不乘第二廉八正仍為第二廉以母五除隅五正得一正為隅如法開之初商一十
+  hash: sha256:dfc2659747c30bfe55c676f906bc1531ecfa442e5c0694e4c03d53680102aa68
+metadata:
+  title: 開方說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc060.xml
+hash: sha256:7faf05fbf9c9e80a93f76e7258fcd67e914221fdd35f5214b35f332fbc5f5d92

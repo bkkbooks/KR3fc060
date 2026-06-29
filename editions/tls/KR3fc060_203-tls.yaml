@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc060/tls/v1/juan/203
+seq: 203
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 十五第一行第二行第三行第四行第五行置實二十五負法一正於第一行實二十五正法一正於第二行乃以第二行下一正乘第一行下一正得一正於第三行下次以第二行下一正乘第一行中二十五負得二十五負於第三行中次以第二行中二十五正乘第一行下一正得二十五正於第四行中次以第二行中二十五正乘第一行中二十五負得六百二十五負於第四行上乃并三四兩行上六百二十五負仍爲負中二十五負與二卜五正相減得空下一正仍爲正卽第
+  hash: sha256:4d1e05bcc4694f3a20791781b49dcbaee2351caae09a88815999c18a6ef2fb2b
+metadata:
+  title: 開方說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc060.xml
+hash: sha256:b1d7c039cb660c3f4f5ab32de224a175ded2dcca145afbd2ae78128d9e50e5dd

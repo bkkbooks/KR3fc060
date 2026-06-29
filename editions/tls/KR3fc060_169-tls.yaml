@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc060/tls/v1/juan/169
+seq: 169
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 負得四千二百四十負爲實重列如法開之開得一十以母一十三乘之得一百三十爲所求數實一億一千五百九十一萬二千七百九十七負方一千一百七十七萬二千六百九十五負廉十萬八千七百七十九負隅三百一十九正開立方得四百二十九
+  hash: sha256:55bc48e802bf25565046138594d22ca8ba69df26ed82f4dd969ad2fbed98ce0f
+metadata:
+  title: 開方說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc060.xml
+hash: sha256:f8a544c2ea077423e1be8f25cfa3095cb6bc10602844180e16ba5f53637b6534

@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 次開得六千六百九十一為第三數此初次三三商皆翻積凡可開三數一數有兩數無者或第一數有第二第三數無或第一第二數無第三數有必無第二數有第一第三數無者以兩無數必相連故也
-  hash: sha256:e448c1e01d49fc9fe5c3421e19525e299cb75aebbd2b935a8b383b185f1f324a
+  text: 次開得六千六百九十一爲第三數此初次三三商皆翻積凡可開三數一數有兩數無者或第一數有第二第三數無或第一第二數無第三數有必無第二數有第一第三數無者以兩無數必相連故也
+  hash: sha256:f0e84122d5422cb9bdd491c78e31674070498f81b516ca2ce569f1861c49bc8b
 metadata:
   title: 開方說
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fc060.xml
-hash: sha256:273e24191bb1e43ffac24913b55a837399426bd511253187a308b361add8d746
+hash: sha256:679dc412974d4e001524ac93d1ad7ea62c50a81f9fc8e397bfc6631ab68930ff

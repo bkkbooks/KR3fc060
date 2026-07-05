@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 凡開方有之分者以子減母為餘數以餘數與元實相加減異加同減復為實如法開之所得較元實所得必多一算實七千七百七十負方空隅一正開平方得八十八一百七十七分之二十六置分母一百七十七正以分子二十六負減之得一百五十一正為餘數與元實七千七百七十負相加得七千九百二十一為負實方空仍為空隅一正仍為隅如法開得八十九
-  hash: sha256:b2804c0fdb2dd0da46c647a32cbc35c28c6c8edffaaa0250fddada7acded2a9e
+  text: 凡開方有之分者以子減母爲餘數以餘數與元實相加減異加同減復爲實如法開之所得較元實所得必多一算實七千七百七十負方空隅一正開平方得八十八一百七十七分之二十六置分母一百七十七正以分子二十六負減之得一百五十一正爲餘數與元實七千七百七十負相加得七千九百二十一爲負實方空仍爲空隅一正仍爲隅如法開得八十九
+  hash: sha256:36daa375f32f87192c65df015b6603b7a8bf19dce699e40de5e25bb3c9f4d5e5
 metadata:
   title: 開方說
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fc060.xml
-hash: sha256:df9c917bd9a36f6efa2bd2e968dc168ec6d2c5cf1716be15eae85f154cb42b19
+hash: sha256:bfc1db8da51db508a34550bcef9604b9c330f3e8f0df54d286068dfd5e9e3917

@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 乘隅一正得七十七正為隅次以七十七再乘廉七十三正得四十三萬二千八百一十七正為廉方空仍為方次以七十七四乘實五千一百八十四負得一千八百二十二億三千三百三十六萬四千五面四十四負為實重列如法開之
-  hash: sha256:240186e59f832464a46d59ebacbde9613a0fbd05297ae787d408aee125b018ef
+  text: 乘隅一正得七十七正爲隅次以七十七再乘廉七十三正得四十三萬二千八百一十七正爲廉方空仍爲方次以七十七四乘實五千一百八十四負得一千八百二十二億三千三百三十六萬四千五面四十四負爲實重列如法開之
+  hash: sha256:847514ad43b761ed16cc03ffffef427a946c35d29214fbd2f018571f45dd1d46
 metadata:
   title: 開方說
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fc060.xml
-hash: sha256:df341fb6bb4f4ed4d563ac13e1013212f6443cbefe946127f783c8eac3513d11
+hash: sha256:7101b7f2af7441b75d257ecaa895919cca6041959d989b730a93d7514bceb0d2

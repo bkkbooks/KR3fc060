@@ -21,15 +21,11 @@ markers:
   - {type: line-break, offset: 61, content: '', id: KX_17_dup27, _xml_error: duplicate-id, _xml_original_id: KX_17}
   - {type: 'tls:seg', offset: 80, content: '', id: KR3fc060_tls_001-p32.s18}
   - {type: line-break, offset: 80, content: '', id: KX_18_dup25, _xml_error: duplicate-id, _xml_original_id: KX_18}
-  - {type: substitution, offset: 87, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
-  - {type: substitution, offset: 97, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
   - {type: 'tls:seg', offset: 99, content: '', id: KR3fc060_tls_001-p32.s19}
   - {type: line-break, offset: 99, content: '', id: KX_19_dup27, _xml_error: duplicate-id, _xml_original_id: KX_19}
-  - {type: substitution, offset: 106, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
-  - {type: substitution, offset: 112, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
   - {type: 'tls:seg', offset: 118, content: '', id: KR3fc060_tls_001-p32.s21}
   - {type: line-break, offset: 118, content: '', id: KX_21_dup22, _xml_error: duplicate-id, _xml_original_id: KX_21}
   - {type: 'tls:seg', offset: 120, content: '', id: KR3fc060_tls_001-p32.s22}
   - {type: line-break, offset: 120, content: '', id: KX_22_dup3, _xml_error: duplicate-id, _xml_original_id: KX_22}
   back: []
-hash: sha256:4e44d165496ae2e76dd24cc1380fc5cdd2ab3c313cf2b69176b242dd27e85212
+hash: sha256:76f06917620e79984020db5f6dd3ec31edc0afc173d5947abd276bdce323fefe

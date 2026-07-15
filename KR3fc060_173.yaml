@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 所求數凡開方有正商負商者以其實方廉隅之正負徧易之如法開之所得之正商負商與不易同實三百一十五負方二十六負隅一正開平方得正商三十五負商九今令實三百一十五負易爲正方二十六負易爲正隅一正易爲負如法開之亦得正商三十五負商九
-  hash: sha256:f98f411f2e05c3ad00d21710cc62727c31dbce7ebafb17ab3bdff588b823705a
+  text: 所求數凡開方有正商負商者以其實方廉隅之正負遍易之如法開之所得之正商負商與不易同實三百一十五負方二十六負隅一正開平方得正商三十五負商九今令實三百一十五負易為正方二十六負易為正隅一正易為負如法開之亦得正商三十五負商九
+  hash: sha256:58b3dbe3c949efd3877cba78118e4ebc0cbbe0eb8587d3c9d3514267d5bbe9fe
 metadata:
   title: 開方說
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fc060.xml
-hash: sha256:ae52206d4dab837c6679bf63d3067c2671ff1a5c4b8582bec6cc020b4241f0f2
+hash: sha256:3617d82fff66edaee37b7ba0c7c5045976b257876a31d121649e2928c4581c5c

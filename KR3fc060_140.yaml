@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 四數初商與第二第三數初商同次商與第三數次商同則初次三三商皆翻積翻而又翻又翻猶一翻也實四十一萬六千一百七十九負方二萬一千三百一十一正廉二百六十九負隅一正如立方法開之先開得二十九爲第一數復置實方廉隅如法開之
-  hash: sha256:5782afa76fca8eca357bedd59f0a3b7eae6d4056dc6a2f4edd289df5339a456c
+  text: 四數初商與第二第三數初商同次商與第三數次商同則初次三三商皆翻積翻而又翻又翻猶一翻也實四十一萬六千一百七十九負方二萬一千三百一十一正廉二百六十九負隅一正如立方法開之先開得二十九為第一數復置實方廉隅如法開之
+  hash: sha256:34345961fc79a4c52d53722564a37592491890fc724935cc88308a1de0d60706
 metadata:
   title: 開方說
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fc060.xml
-hash: sha256:a3e0c084d136a27310ea9f7bc1abb874062196ef6f607a38ac4ab50e1858a071
+hash: sha256:817063e9ebc96606dabadd0c99dfcbcac473ce72a665c280b1b50ac644daed1e

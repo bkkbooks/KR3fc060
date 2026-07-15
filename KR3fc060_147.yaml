@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 次開得六千五百二十九爲第二數此初商翻積復置實方廉隅如法開之
-  hash: sha256:51ec2eef6924406a571c759871cebf4db63faccdcd5a401eb4b9eb49311a4e61
+  text: 次開得六千五百二十九為第二數此初商翻積復置實方廉隅如法開之
+  hash: sha256:1dbc74aa700f7a581360ba88ee5931d195d0295044c133a358722008f593c94f
 metadata:
   title: 開方說
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fc060.xml
-hash: sha256:0e9f24892e11b0dc964601eb92eb480f573b4eac072cfc4fb344f2acd24388a6
+hash: sha256:0da8c32137a2ec43f6c0179446fda9a4ee6f49936a3a8179b532495bea47b2cb

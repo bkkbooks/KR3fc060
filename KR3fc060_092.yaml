@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 初商一十正次商二正又立方開得一十二正爲第二數變之以平方代開之
-  hash: sha256:a9e584a4b755f1d3916433eb75f46eef64c3c383ebd7d8e893b108304c865b7c
+  text: 初商一十正次商二正又立方開得一十二正為第二數變之以平方代開之
+  hash: sha256:10f152ffd8af40609359701acef7d10daa8a16b89203907847b3f7bcd74f1d4a
 metadata:
   title: 開方說
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fc060.xml
-hash: sha256:8173390ee7c3b79db0ba3c290fa23d82ca43593a34058f5f80fad2f013bc16f3
+hash: sha256:2b55d3009a8ef80b46f9febd6cbb4bcca8947222e2420896ea80853cad6adc3b

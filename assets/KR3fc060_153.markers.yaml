@@ -11,6 +11,7 @@ markers:
   - {type: line-break, offset: 25, content: '', id: KX_5_dup56, _xml_error: duplicate-id, _xml_original_id: KX_5}
   - {type: 'tls:seg', offset: 44, content: '', id: KR3fc060_tls_001-p71.s6}
   - {type: line-break, offset: 44, content: '', id: KX_6_dup54, _xml_error: duplicate-id, _xml_original_id: KX_6}
+  - {type: substitution, offset: 61, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: 'tls:seg', offset: 63, content: '', id: KR3fc060_tls_001-p71.s7}
   - {type: line-break, offset: 63, content: '', id: KX_7_dup53, _xml_error: duplicate-id, _xml_original_id: KX_7}
   - {type: 'tls:seg', offset: 68, content: '', id: KR3fc060_tls_001-p71.s8}
@@ -23,6 +24,8 @@ markers:
   - {type: line-break, offset: 113, content: '', id: KX_14_dup53, _xml_error: duplicate-id, _xml_original_id: KX_14}
   - {type: 'tls:seg', offset: 114, content: '', id: KR3fc060_tls_001-p71.s17}
   - {type: line-break, offset: 114, content: '', id: KX_17_dup56, _xml_error: duplicate-id, _xml_original_id: KX_17}
+  - {type: substitution, offset: 121, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
+  - {type: substitution, offset: 129, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: 'tls:seg', offset: 133, content: '', id: KR3fc060_tls_001-p71.s18}
   - {type: line-break, offset: 133, content: '', id: KX_18_dup54, _xml_error: duplicate-id, _xml_original_id: KX_18}
   - {type: 'tls:seg', offset: 136, content: '', id: KR3fc060_tls_001-p71.s19}
@@ -30,4 +33,4 @@ markers:
   - {type: 'tls:seg', offset: 156, content: '', id: KR3fc060_tls_001-p71.s20}
   - {type: line-break, offset: 156, content: '', id: KX_20_dup49, _xml_error: duplicate-id, _xml_original_id: KX_20}
   back: []
-hash: sha256:39d4feb35e31f64c1549bbc8f614383ed1ff1216cacac7e0b869024ae9220629
+hash: sha256:b9e2b9d6f80263484bba80d3d45bfd3acc8b761e63bb301cc52fb4c2b1442ba4
